@@ -1,4 +1,10 @@
 # MS_DS_Portfolio
+
+Victor Kaidas
+SUID: 649789315
+Portfolio Milestone
+M.S. in Applied Data Science, Syracuse University
+
 Contents:
 Projects/
   FIN654_FinancialAnalytics.zip 
